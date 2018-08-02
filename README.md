@@ -1,5 +1,5 @@
 # hows-weather
-Application for getting the weather wherever you are.
+Application for getting the weather info wherever you are.
 
 - Build App with React Native
 - Used Expo (IOS/ android)
