@@ -6,8 +6,8 @@ Application for getting the weather info wherever you are.
 - getting my current position from Expo
 - getting the weather info from API 
 
-![Clear](./Users/hyesuelee/Documents/hows-weather/Clear.png)
-![Rain](./Users/hyesuelee/Documents/hows-weather/Rain.png)
-![Snow](./Users/hyesuelee/Documents/hows-weather/Snow.png)
+![Clear](./Documents/hows-weather/Clear.png)
+![Rain](./Documents/hows-weather/Rain.png)
+![Snow](./Documents/hows-weather/Snow.png)
 
 
